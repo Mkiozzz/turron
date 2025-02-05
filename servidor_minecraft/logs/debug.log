@@ -1033,3 +1033,7 @@
 [05Feb2025 23:38:44.817] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [05Feb2025 23:39:09.901] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Disconnected
 [05Feb2025 23:39:09.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
+[05Feb2025 23:43:44.801] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Feb2025 23:43:44.805] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Feb2025 23:48:44.802] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Feb2025 23:48:44.805] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
