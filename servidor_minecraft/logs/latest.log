@@ -292,3 +292,11 @@
 [05Feb2025 23:27:41.152] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/chunk/Chunk$CreateEntityType
 [05Feb2025 23:30:01.139] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/TileEntityMerger$Type
 [05Feb2025 23:30:39.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/PlayerEntity$SleepResult
+[05Feb2025 23:33:11.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/UseAction
+[05Feb2025 23:34:25.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miyio> sawww
+[05Feb2025 23:34:44.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miyio> weno como puedo decir lo q quiera
+[05Feb2025 23:34:57.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miyio> lo intente
+[05Feb2025 23:35:16.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miyio> no puedo decir q no lo intente
+[05Feb2025 23:38:05.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miyio> 5-02-2025
+[05Feb2025 23:39:09.901] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Disconnected
+[05Feb2025 23:39:09.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
