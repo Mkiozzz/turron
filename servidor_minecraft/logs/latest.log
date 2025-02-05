@@ -287,3 +287,5 @@
 [05Feb2025 22:29:46.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/PlayerEntity$SleepResult
 [05Feb2025 22:30:11.455] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/TileEntityMerger$Type
 [05Feb2025 22:32:19.663] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/UseAction
+[05Feb2025 22:57:02.698] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=242, y=66, z=-1522} BlockPos{x=242, y=64, z=-1521}
+[05Feb2025 22:57:04.132] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=239, y=66, z=-1512} BlockPos{x=239, y=64, z=-1511}
