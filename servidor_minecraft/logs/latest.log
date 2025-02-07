@@ -295,3 +295,12 @@
 [07Feb2025 23:39:09.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
 [07Feb2025 23:39:09.189] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c821f321-2a7b-43d4-8eac-45519fc24f16. Existing minecraft:skeleton_horse#1537, new: minecraft:skeleton_horse#1537
 [07Feb2025 23:42:26.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/AbstractBlock$OffsetType
+[07Feb2025 23:50:35.467] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Disconnected
+[07Feb2025 23:50:35.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
+[07Feb2025 23:51:14.736] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@740f806
+[07Feb2025 23:51:14.745] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miyio[/127.246.29.183:51231] logged in with entity id 3563 at (88.66929266173707, 8.58349830715719, -1631.304626948226)
+[07Feb2025 23:51:14.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
+[07Feb2025 23:51:15.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set miyio's game mode to Creative Mode
+[07Feb2025 23:51:31.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set miyio's game mode to Survival Mode
+[07Feb2025 23:55:56.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [Hot Stuff]
+[07Feb2025 23:57:35.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [Ice Bucket Challenge]
