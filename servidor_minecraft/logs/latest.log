@@ -294,3 +294,4 @@
 [07Feb2025 23:39:09.097] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miyio[/127.246.29.183:54401] logged in with entity id 1535 at (274.55165825339213, 70.6625000178814, -1593.7443013061918)
 [07Feb2025 23:39:09.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
 [07Feb2025 23:39:09.189] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c821f321-2a7b-43d4-8eac-45519fc24f16. Existing minecraft:skeleton_horse#1537, new: minecraft:skeleton_horse#1537
+[07Feb2025 23:42:26.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/AbstractBlock$OffsetType
