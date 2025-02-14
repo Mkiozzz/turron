@@ -355,3 +355,14 @@
 [14Feb2025 23:37:18.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
 [14Feb2025 23:37:34.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/PlayerEntity$SleepResult
 [14Feb2025 23:39:47.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has completed the challenge [Free Willy]
+[14Feb2025 23:47:53.627] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/goal/BoatGoals
+[14Feb2025 23:52:05.777] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio was kicked for floating too long!
+[14Feb2025 23:52:05.779] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Flying is not enabled on this server
+[14Feb2025 23:52:05.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
+[14Feb2025 23:52:05.867] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[14Feb2025 23:52:16.390] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@38b7400a
+[14Feb2025 23:52:16.402] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miyio[/127.233.23.148:60101] logged in with entity id 6274 at (212.32173491080994, 62.07326492327419, -1689.5995807187167)
+[14Feb2025 23:52:16.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
+[14Feb2025 23:52:16.460] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 8d54ec4c-a1eb-4f6e-aa79-db2c060d6243. Existing minecraft:boat#6276, new: minecraft:boat#6276
+[14Feb2025 23:55:33.989] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[14Feb2025 23:55:33.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [Ambush]
