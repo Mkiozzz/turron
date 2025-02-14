@@ -1392,3 +1392,8 @@
 [14Feb2025 23:37:18.210] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 137 classes
 [14Feb2025 23:37:18.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
 [14Feb2025 23:37:34.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/PlayerEntity$SleepResult
+[14Feb2025 23:38:01.298] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Feb2025 23:38:01.304] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Feb2025 23:39:47.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has completed the challenge [Free Willy]
+[14Feb2025 23:43:01.286] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Feb2025 23:43:01.290] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

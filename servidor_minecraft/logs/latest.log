@@ -354,3 +354,4 @@
 [14Feb2025 23:37:18.202] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miyio[/127.233.23.148:41307] logged in with entity id 3066 at (202.95976174933466, 64.0, -1477.0523532156221)
 [14Feb2025 23:37:18.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
 [14Feb2025 23:37:34.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/PlayerEntity$SleepResult
+[14Feb2025 23:39:47.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has completed the challenge [Free Willy]
