@@ -20,3 +20,6 @@
 [15Feb2025 00:08:08.874] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/horse/CoatTypes
 [15Feb2025 00:14:03.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Creative Mode]
 [15Feb2025 00:14:17.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Survival Mode]
+[15Feb2025 00:21:55.853] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9131a13c-31ad-421c-8e27-fa437b0e7b2c. Existing alexsmobs:raccoon#10797, new: alexsmobs:raccoon#12351
+[15Feb2025 00:21:55.854] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9131a13c-31ad-421c-8e27-fa437b0e7b2c. Existing alexsmobs:raccoon#10797, new: alexsmobs:raccoon#10797
+[15Feb2025 00:25:38.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [Ashes 'n Bones]

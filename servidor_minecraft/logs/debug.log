@@ -1661,3 +1661,10 @@
 [15Feb2025 00:14:17.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Survival Mode]
 [15Feb2025 00:18:01.285] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [15Feb2025 00:18:01.290] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 00:21:55.853] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9131a13c-31ad-421c-8e27-fa437b0e7b2c. Existing alexsmobs:raccoon#10797, new: alexsmobs:raccoon#12351
+[15Feb2025 00:21:55.854] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9131a13c-31ad-421c-8e27-fa437b0e7b2c. Existing alexsmobs:raccoon#10797, new: alexsmobs:raccoon#10797
+[15Feb2025 00:23:01.285] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 00:23:01.289] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 00:25:38.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [Ashes 'n Bones]
+[15Feb2025 00:28:01.283] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 00:28:01.287] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
