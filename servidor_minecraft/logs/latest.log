@@ -403,3 +403,8 @@
 [15Feb2025 03:41:08.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/command/impl/FillCommand$Mode
 [15Feb2025 03:41:48.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [What a Deal!]
 [15Feb2025 03:53:40.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/BeehiveTileEntity$State
+[15Feb2025 04:03:32.716] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Disconnected
+[15Feb2025 04:03:32.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
+[15Feb2025 04:03:37.980] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4e884ce3
+[15Feb2025 04:03:37.994] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miyio[/127.233.23.148:47423] logged in with entity id 4134 at (1644.2606500859006, 64.0, -726.4024384806145)
+[15Feb2025 04:03:38.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
