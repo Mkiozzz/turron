@@ -1554,3 +1554,10 @@
 [15Feb2025 03:26:25.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/GossipType
 [15Feb2025 03:30:57.492] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [15Feb2025 03:30:57.500] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 03:35:57.478] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 03:35:57.485] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 03:40:57.486] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 03:40:57.494] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 03:41:08.009] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of caves_and_cliffs_mod:dripstone_cave
+[15Feb2025 03:41:08.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/command/impl/FillCommand$Mode
+[15Feb2025 03:41:48.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [What a Deal!]

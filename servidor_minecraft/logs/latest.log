@@ -400,3 +400,5 @@
 [15Feb2025 03:25:57.093] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/FoxEntity$Type
 [15Feb2025 03:26:10.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
 [15Feb2025 03:26:25.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/GossipType
+[15Feb2025 03:41:08.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/command/impl/FillCommand$Mode
+[15Feb2025 03:41:48.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [What a Deal!]
