@@ -1668,3 +1668,11 @@
 [15Feb2025 00:25:38.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [Ashes 'n Bones]
 [15Feb2025 00:28:01.283] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [15Feb2025 00:28:01.287] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 00:30:12.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Creative Mode]
+[15Feb2025 00:31:13.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Survival Mode]
+[15Feb2025 00:33:01.284] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 00:33:01.287] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 00:34:42.278] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Disconnected
+[15Feb2025 00:34:42.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
+[15Feb2025 00:38:01.277] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 00:38:01.280] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

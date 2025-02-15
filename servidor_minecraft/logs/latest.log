@@ -23,3 +23,7 @@
 [15Feb2025 00:21:55.853] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9131a13c-31ad-421c-8e27-fa437b0e7b2c. Existing alexsmobs:raccoon#10797, new: alexsmobs:raccoon#12351
 [15Feb2025 00:21:55.854] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9131a13c-31ad-421c-8e27-fa437b0e7b2c. Existing alexsmobs:raccoon#10797, new: alexsmobs:raccoon#10797
 [15Feb2025 00:25:38.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [Ashes 'n Bones]
+[15Feb2025 00:30:12.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Creative Mode]
+[15Feb2025 00:31:13.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Survival Mode]
+[15Feb2025 00:34:42.278] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Disconnected
+[15Feb2025 00:34:42.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
