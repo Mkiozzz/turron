@@ -408,3 +408,6 @@
 [15Feb2025 04:03:37.980] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4e884ce3
 [15Feb2025 04:03:37.994] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miyio[/127.233.23.148:47423] logged in with entity id 4134 at (1644.2606500859006, 64.0, -726.4024384806145)
 [15Feb2025 04:03:38.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
+[15Feb2025 04:08:38.169] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Timed out
+[15Feb2025 04:08:38.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
+[15Feb2025 04:08:38.218] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice

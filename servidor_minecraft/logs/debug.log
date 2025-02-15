@@ -1692,3 +1692,12 @@
 [15Feb2025 04:03:37.995] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@2c9a05b into net.minecraft.network.NetworkManager@7e63d145
 [15Feb2025 04:03:38.000] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 165 classes
 [15Feb2025 04:03:38.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio joined the game
+[15Feb2025 04:05:57.481] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 04:05:57.486] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 04:08:38.169] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Timed out
+[15Feb2025 04:08:38.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
+[15Feb2025 04:08:38.218] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[15Feb2025 04:10:57.466] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 04:10:57.472] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 04:15:57.466] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 04:15:57.470] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
