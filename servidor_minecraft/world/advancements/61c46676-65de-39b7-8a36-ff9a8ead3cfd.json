@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-15 02:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-14 22:55:30 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-15 02:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-25 00:49:45 +0000"
@@ -164,6 +176,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-24 23:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-15 02:04:36 +0000"
     },
     "done": true
   },
@@ -317,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-02-15 02:24:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-02-15 00:00:33 +0000"
@@ -333,8 +357,11 @@
     "criteria": {
       "cooked_porkchop": "2025-01-25 00:43:02 +0000",
       "cooked_mutton": "2025-02-07 23:37:04 +0000",
+      "sweet_berries": "2025-02-15 02:04:24 +0000",
       "cooked_beef": "2025-01-24 23:46:31 +0000",
+      "tropical_fish": "2025-02-15 01:28:57 +0000",
       "mutton": "2025-02-07 23:39:35 +0000",
+      "bread": "2025-02-15 02:13:27 +0000",
       "rotten_flesh": "2025-02-15 00:06:55 +0000",
       "cooked_chicken": "2025-02-07 23:36:03 +0000"
     },
@@ -460,9 +487,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-15 02:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-01-24 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-15 02:17:18 +0000"
     },
     "done": true
   },
@@ -508,6 +547,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 01:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-24 23:39:06 +0000"
@@ -529,6 +574,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-05 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-02-15 01:23:11 +0000"
     },
     "done": true
   },
@@ -706,6 +757,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-02-15 01:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-24 23:46:31 +0000"
@@ -814,6 +871,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-02-15 01:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-24 23:42:52 +0000"
@@ -882,7 +945,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-15 01:31:53 +0000",
       "minecraft:skeleton": "2025-01-25 00:49:19 +0000",
+      "minecraft:spider": "2025-02-15 02:28:56 +0000",
+      "minecraft:creeper": "2025-02-15 02:05:38 +0000",
       "minecraft:slime": "2025-02-14 22:34:34 +0000",
       "minecraft:witch": "2025-02-14 23:55:33 +0000",
       "minecraft:cave_spider": "2025-01-25 00:53:21 +0000",
@@ -1008,6 +1074,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-01-25 00:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-15 01:31:53 +0000"
     },
     "done": true
   },
@@ -1209,6 +1281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-15 02:24:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-24 23:41:15 +0000"
@@ -1308,6 +1386,18 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-01-24 23:45:20 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-15 01:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-15 02:23:13 +0000"
     },
     "done": true
   },
@@ -1425,6 +1515,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-02-15 01:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-14 22:55:30 +0000"
@@ -1539,6 +1635,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 01:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2025-01-24 23:39:06 +0000"
@@ -1629,6 +1731,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-15 01:44:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-02-14 22:43:57 +0000"
@@ -1682,6 +1790,7 @@
       "minecraft:cold_ocean": "2025-01-25 00:04:34 +0000",
       "minecraft:forest": "2025-01-24 23:52:44 +0000",
       "minecraft:mountains": "2025-01-24 23:41:11 +0000",
+      "minecraft:taiga": "2025-02-15 01:52:07 +0000",
       "minecraft:desert_hills": "2025-01-25 00:17:24 +0000",
       "minecraft:deep_cold_ocean": "2025-01-25 00:05:57 +0000",
       "minecraft:desert": "2025-01-25 00:17:22 +0000",
@@ -1689,9 +1798,11 @@
       "minecraft:birch_forest": "2025-01-24 23:50:41 +0000",
       "minecraft:badlands": "2025-01-25 00:11:34 +0000",
       "minecraft:beach": "2025-01-24 23:53:37 +0000",
+      "minecraft:dark_forest": "2025-02-15 01:45:44 +0000",
       "minecraft:river": "2025-01-24 23:48:34 +0000",
       "minecraft:birch_forest_hills": "2025-01-24 23:51:04 +0000",
       "minecraft:wooded_hills": "2025-01-24 23:38:39 +0000",
+      "minecraft:stone_shore": "2025-02-15 01:38:56 +0000",
       "minecraft:swamp": "2025-01-24 23:56:47 +0000",
       "minecraft:savanna": "2025-01-24 23:51:28 +0000",
       "minecraft:plains": "2025-01-24 22:41:53 +0000"
@@ -1866,6 +1977,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-02-15 01:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2025-01-25 00:53:29 +0000"
@@ -1911,6 +2028,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-14 22:55:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-02-15 01:23:11 +0000"
     },
     "done": true
   },
