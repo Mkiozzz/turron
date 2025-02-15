@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-15 03:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-24 23:41:15 +0000"
@@ -990,6 +996,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-25 00:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-15 03:41:48 +0000"
     },
     "done": true
   },
@@ -1805,6 +1817,7 @@
       "minecraft:taiga": "2025-02-15 01:52:07 +0000",
       "minecraft:desert_hills": "2025-01-25 00:17:24 +0000",
       "minecraft:deep_cold_ocean": "2025-01-25 00:05:57 +0000",
+      "minecraft:taiga_hills": "2025-02-15 03:41:05 +0000",
       "minecraft:desert": "2025-01-25 00:17:22 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-25 00:06:13 +0000",
       "minecraft:birch_forest": "2025-01-24 23:50:41 +0000",

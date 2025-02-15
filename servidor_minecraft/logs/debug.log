@@ -1561,3 +1561,8 @@
 [15Feb2025 03:41:08.009] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of caves_and_cliffs_mod:dripstone_cave
 [15Feb2025 03:41:08.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/command/impl/FillCommand$Mode
 [15Feb2025 03:41:48.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [What a Deal!]
+[15Feb2025 03:45:57.496] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 03:45:57.508] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 03:50:57.477] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Feb2025 03:50:57.484] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Feb2025 03:53:40.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/BeehiveTileEntity$State

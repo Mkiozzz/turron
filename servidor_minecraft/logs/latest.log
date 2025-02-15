@@ -402,3 +402,4 @@
 [15Feb2025 03:26:25.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/GossipType
 [15Feb2025 03:41:08.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/command/impl/FillCommand$Mode
 [15Feb2025 03:41:48.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio has made the advancement [What a Deal!]
+[15Feb2025 03:53:40.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/BeehiveTileEntity$State
