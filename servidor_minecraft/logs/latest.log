@@ -16,3 +16,7 @@
 [15Feb2025 00:05:12.428] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of miyio) moved wrongly! 0.4093644535328167
 [15Feb2025 00:05:12.478] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of miyio) moved wrongly! 0.42088614506474187
 [15Feb2025 00:05:12.489] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of miyio) moved wrongly! 0.43125566716889807
+[15Feb2025 00:08:08.872] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/horse/CoatColors
+[15Feb2025 00:08:08.874] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/horse/CoatTypes
+[15Feb2025 00:14:03.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Creative Mode]
+[15Feb2025 00:14:17.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Survival Mode]
