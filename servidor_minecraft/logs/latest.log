@@ -407,3 +407,5 @@
 [16Feb2025 01:50:30.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/PlayerEntity$SleepResult
 [16Feb2025 01:52:00.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/TileEntityMerger$Type
 [16Feb2025 01:56:42.404] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/UseAction
+[16Feb2025 02:02:49.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/backpack/wrapper/TankPosition
+[16Feb2025 02:02:52.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/RuinedPortalPiece$Location
