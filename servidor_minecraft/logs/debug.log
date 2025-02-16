@@ -1578,3 +1578,9 @@
 [16Feb2025 02:33:35.529] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [16Feb2025 02:35:41.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Creative Mode]
 [16Feb2025 02:36:19.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miyio: Set own game mode to Survival Mode]
+[16Feb2025 02:38:35.517] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Feb2025 02:38:35.526] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Feb2025 02:42:45.754] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miyio lost connection: Disconnected
+[16Feb2025 02:42:45.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miyio left the game
+[16Feb2025 02:43:35.503] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Feb2025 02:43:35.509] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
